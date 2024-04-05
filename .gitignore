@@ -1,7 +1,7 @@
 
 node_modules/
 keys/
-.env
+.env.template 
 
 /postgres
 
